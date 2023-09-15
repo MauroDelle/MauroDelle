@@ -29,7 +29,7 @@
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=github,docker,linux,javascript,c,cs" /><br>
-    <img src="https://skillicons.dev/icons?i=bootstrap,php,dotnet,mysql,sql,html,css,vscode,git" />
+    <img src="https://skillicons.dev/icons?i=bootstrap,php,dotnet,mysql,sqls,html,css,vscode,git" />
 </div>
 
 <br/>
