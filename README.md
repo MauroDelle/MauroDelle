@@ -10,7 +10,7 @@
 
 <div align="center">
 
- 🌱 I’m currently learning **Angular, TypeScript & FireBase**
+ 🌱 I’m currently learning **mobile application development**
  
  </div>
  
